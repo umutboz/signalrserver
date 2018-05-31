@@ -1,0 +1,14 @@
+/Users/ksmacpro/Desktop/Architecture/SignalR/SignalR-samples-master/ChatSample/ChatSample/bin/Debug/netcoreapp2.1/ChatSample.deps.json
+/Users/ksmacpro/Desktop/Architecture/SignalR/SignalR-samples-master/ChatSample/ChatSample/bin/Debug/netcoreapp2.1/ChatSample.runtimeconfig.json
+/Users/ksmacpro/Desktop/Architecture/SignalR/SignalR-samples-master/ChatSample/ChatSample/bin/Debug/netcoreapp2.1/ChatSample.runtimeconfig.dev.json
+/Users/ksmacpro/Desktop/Architecture/SignalR/SignalR-samples-master/ChatSample/ChatSample/bin/Debug/netcoreapp2.1/ChatSample.dll
+/Users/ksmacpro/Desktop/Architecture/SignalR/SignalR-samples-master/ChatSample/ChatSample/bin/Debug/netcoreapp2.1/ChatSample.pdb
+/Users/ksmacpro/Desktop/Architecture/SignalR/SignalR-samples-master/ChatSample/ChatSample/obj/Debug/netcoreapp2.1/ChatSample.csprojAssemblyReference.cache
+/Users/ksmacpro/Desktop/Architecture/SignalR/SignalR-samples-master/ChatSample/ChatSample/obj/Debug/netcoreapp2.1/ChatSample.csproj.CoreCompileInputs.cache
+/Users/ksmacpro/Desktop/Architecture/SignalR/SignalR-samples-master/ChatSample/ChatSample/obj/Debug/netcoreapp2.1/ChatSample.RazorAssemblyInfo.cache
+/Users/ksmacpro/Desktop/Architecture/SignalR/SignalR-samples-master/ChatSample/ChatSample/obj/Debug/netcoreapp2.1/ChatSample.RazorAssemblyInfo.cs
+/Users/ksmacpro/Desktop/Architecture/SignalR/SignalR-samples-master/ChatSample/ChatSample/obj/Debug/netcoreapp2.1/ChatSample.AssemblyInfoInputs.cache
+/Users/ksmacpro/Desktop/Architecture/SignalR/SignalR-samples-master/ChatSample/ChatSample/obj/Debug/netcoreapp2.1/ChatSample.AssemblyInfo.cs
+/Users/ksmacpro/Desktop/Architecture/SignalR/SignalR-samples-master/ChatSample/ChatSample/obj/Debug/netcoreapp2.1/ChatSample.RazorTargetAssemblyInfo.cache
+/Users/ksmacpro/Desktop/Architecture/SignalR/SignalR-samples-master/ChatSample/ChatSample/obj/Debug/netcoreapp2.1/ChatSample.dll
+/Users/ksmacpro/Desktop/Architecture/SignalR/SignalR-samples-master/ChatSample/ChatSample/obj/Debug/netcoreapp2.1/ChatSample.pdb
